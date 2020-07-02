@@ -1,0 +1,12 @@
+.input-section{
+    font-size: 20px;
+    color: rgb(22, 26, 22);
+    font-weight: 900;
+}
+
+.input-section::placeholder{
+    font-family: "Dancing Script";
+    font-size: 20px;
+  }
+
+  
